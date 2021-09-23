@@ -27,7 +27,6 @@
             text-align: center;
             display: inline-block;
         }
-222
         .title {
             font-size: 66px;
         }
